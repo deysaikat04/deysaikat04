@@ -4,7 +4,7 @@
 
 - 💬 Ask me about JavaScript, React, Redux, Node
 - 📫 How to reach me:
-    - Here is my LinkedIn <a href="https://www.linkedin.com/in/iamsaikat/" target="_blank" rel="noopener noreferrer">iamsaikat</a>. Add me to your network and then we will chat 🗒
+    - Here is my LinkedIn <a href="https://www.linkedin.com/in/iamsaikat/">iamsaikat</a>. Add me to your network and then we will chat 🗒
     - or, Drop a mail <a href="#" mailTo="dsaikat378@gmail.com">dsaikat378@gmail.com</a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deysaikat04&show_icons=true&locale=en" alt="deysaikat04" /></p>
