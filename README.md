@@ -2,7 +2,7 @@
 ### I am Saikat
 #### A passionate Full Stack Developer
 
-- ✨ My <a href="https://saikat-dey.tiiny.site/" target="_blank" rel="noopener noreferrer">Resume</a>
+- ✨ My <a href="https://saikatdey.tiiny.site/" target="_blank" rel="noopener noreferrer">Resume</a>
 - 💬 Ask me about JavaScript, React, Redux, Node
 - 📫 How to reach me:
     - Here is my LinkedIn <a href="https://www.linkedin.com/in/iamsaikat/">iamsaikat</a>. Add me to your network and then we will chat 🗒
