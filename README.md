@@ -6,7 +6,7 @@
 - 💬 Ask me about JavaScript, React, Redux, Node
 - 📫 How to reach me:
     - Here is my LinkedIn <a href="https://www.linkedin.com/in/iamsaikat/">iamsaikat</a>. Add me to your network and then we will chat 🗒
-    - or, Drop a mail <a href="#" mailTo="dsaikat378@gmail.com">dsaikat378@gmail.com</a>
+    - or, Drop an email to <a href="#" mailTo="dsaikat378@gmail.com">dsaikat378@gmail.com</a>
 
 <!--
 **deysaikat04/deysaikat04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
