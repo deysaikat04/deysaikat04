@@ -9,7 +9,8 @@
 
 - 📫 How to reach me **dsaikat378@gmail.com**
 
-- 📄 My Resume -  [saikatdey.netlify.app/resume](saikatdey.netlify.app/resume)
+- 📄 [Resume](https://saikatdey.netlify.app/resume)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
